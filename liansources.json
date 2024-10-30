@@ -1442,14 +1442,6 @@
             "fileSize": "42 GB"
         },
         {
-            "title": "Sekiro™: Shadows Die Twice",
-            "uris": [
-                "magnet:?xt=urn:btih:9785a7d0c1a9464c6a5d0a57cd87f44f8cd51de6"
-            ],
-            "uploadDate": "2024-10-30T12:01:43.000Z",
-            "fileSize": "11 GB"
-        },
-        {
             "title": "Stardew Valley Collectors Edition",
             "uris": [
                 "magnet:?xt=urn:btih:a8b413c01035489ed3f62214670306f8d1dbcd1e"
@@ -1632,6 +1624,14 @@
             ],
             "uploadDate": "2024-10-30T13:19:54.000Z",
             "fileSize": "4 GB"
+        },
+        {
+            "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+            "uris": [
+                "magnet:?xt=urn:btih:9785a7d0c1a9464c6a5d0a57cd87f44f8cd51de6"
+            ],
+            "uploadDate": "2024-10-30T12:01:43.000Z",
+            "fileSize": "11 GB"
         }
     ]
 }
