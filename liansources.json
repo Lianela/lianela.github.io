@@ -1632,6 +1632,24 @@
             ],
             "uploadDate": "2024-10-30T12:01:43.000Z",
             "fileSize": "11 GB"
+        },
+                {
+            "title": "Palworld - v0.3.10",
+            "uris": [
+                "magnet:?xt=urn:btih:12693ec42fff50ab07a5cf57ef8e48177851de82"
+            ],
+            "uploadDate": "2024-10-31T21:57:29.000Z",
+            "fileSize": "21 GB"
+        },
+        {
+            "title": "Dragon Age: The Veilguard Deluxe Edition",
+            "uris": [
+                "magnet:?xt=urn:btih:5853dbea804be77860c997624d056585f0d34a0b"
+            ],
+            "uploadDate": "2024-10-31T21:57:31.000Z",
+            "fileSize": "89 GB"
         }
+    ]
+}
     ]
 }
